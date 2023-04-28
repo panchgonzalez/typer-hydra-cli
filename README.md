@@ -1,6 +1,6 @@
 # CLIs with Typer and Hydra
 
-Blog post: 
+[Blog post](https://blog.panch.io/building-robust-clis-with-typer-and-hydra-a51a5b68969e)
 
 ### Usage
 
